@@ -1,0 +1,15 @@
+*{
+  padding: 1rem;
+}
+
+body{
+  background-color: #333;
+
+}
+h3{
+  color: darkgreen;
+}
+.card-header{
+  background-color: white;
+  border-radius: 1rem;
+}
